@@ -1,5 +1,6 @@
 # EDA Analysis on E-Grocery market data 
-  ### Plots (in order of appearance in code)
+ ### Plots 
+ #### (in order of appearance in code)
 - Number of unique orders by the day of the week (Mon - Sun)
 - Number of unique orders by hourly period of the day
 - Number of unique orders by day of the week and general time of day (Morning, Afternoon, Evening, Night time)
